@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-01-25 13:23+0100\n"
+"PO-Revision-Date: 2023-01-25 13:23+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: event-arrangorer.php:16 event-arrangorer.php:26
+msgid "Organisers"
+msgstr ""
+
+#: event-arrangorer.php:17
+msgid "Organiser"
+msgstr ""
+
+#: event-arrangorer.php:18
+msgid "Search Organisers"
+msgstr ""
+
+#: event-arrangorer.php:19
+msgid "All Organisers"
+msgstr ""
+
+#: event-arrangorer.php:20
+msgid "Parent Organiser"
+msgstr ""
+
+#: event-arrangorer.php:21
+msgid "Parent Organiser:"
+msgstr ""
+
+#: event-arrangorer.php:22
+msgid "Edit Organiser"
+msgstr ""
+
+#: event-arrangorer.php:23
+msgid "Update Organiser"
+msgstr ""
+
+#: event-arrangorer.php:24
+msgid "Add New Organiser"
+msgstr ""
+
+#: event-arrangorer.php:25
+msgid "New Organiser Name"
+msgstr ""
