@@ -1,12 +1,12 @@
 <?php 
 /*
 Plugin Name: Events Manager Organiser
-Plugin URI: 
+Plugin URI: https://github.com/audunmb/event-arrangorer
 Description: Add organiser custom taxonomy to Events Manager
-Author: audun
+Author: audunmb
 Version: 0.1
 Author URI: 
-License: GPL2
+License: GPL3
 Text Domain: event-arrangorer
 Domain Path: /languages/
 */
